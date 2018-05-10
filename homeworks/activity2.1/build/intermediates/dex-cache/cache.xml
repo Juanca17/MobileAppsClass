@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/juancarlossanchez/Desktop/TEC/6Semestre/AplicacionesMoviles/Homework2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/juancarlossanchez/Desktop/TEC/6Semestre/AplicacionesMoviles/Homework2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b04a49a8a3acc54568dda4068b0ba5a7b7df5745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juancarlossanchez/Desktop/TEC/6Semestre/AplicacionesMoviles/Homework2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fefb164c55aad9bd37e76d1b4420079e4c12889">
+        <dex dex="/Users/juancarlossanchez/Desktop/TEC/6Semestre/AplicacionesMoviles/Homework2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_457e054f4154afefc410db8a627c49fed3221686/classes.dex" />
+    </item>
+
+</items>
